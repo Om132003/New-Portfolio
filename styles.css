@@ -1,0 +1,36 @@
+/* Existing CSS styles remain unchanged */
+
+#about img {
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+#skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#skills li {
+    display: inline-block;
+    margin-right: 10px;
+    background-color: #007BFF;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#projects img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+#resume a {
+    color: #007BFF;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
